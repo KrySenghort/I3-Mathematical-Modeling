@@ -1,0 +1,10 @@
++  មេទីលបារ៉តរលាយ : 50% every for 65 days or 75 days =​ 1/2 of lifetime mercury
++ ចំនួនបាសបារ៉ត = 2425
++ ចំនួនមេទីលបារ៉តនៅក្នុងត្រីគឺ = 0.43micro-gram/gram
++ ទំងន់មធ្យមរបស់ត្រីគឺ = 0.817g
++ មនុស្សពេញវ័យ(ទម្ងន់ = 70kg, ស៊ីត្រីអស់​ ១ = 0.817kg, 
++ អាយុពាក់កណ្ដាលជីវិតបារ៉ត = 70 days
++ Find dynamical system that show the medium amount of mercury in   adult's body.
+
++ Find maximum quantity of mercury Hg in the whole lifetime of person.
++ 
